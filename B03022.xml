@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament: for the inabling of Sr. William Brereton baronet, one of the members of the House of Commons, speedily to put in execution the ordinances for the sequestraion of the estates of Papists and delinquents ... and all other ordinances of Parliament, within the county of Chester ... and to take subsscriptions for the better supply and maintenance of the forces under his command ... also allowing unto the said Sir William Brereton the personall estates of all Papists and delinquents, in and about London ... as are not yet sequestred, or discovered for the service aforesaid.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03022</idno>
+            <idno type="STC">Wing E1969A</idno>
+            <idno type="STC">ESTC R176133</idno>
+            <idno type="EEBO-CITATION">53299077</idno>
+            <idno type="OCLC">ocm 53299077</idno>
+            <idno type="VID">179846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179846)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2806:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament: for the inabling of Sr. William Brereton baronet, one of the members of the House of Commons, speedily to put in execution the ordinances for the sequestraion of the estates of Papists and delinquents ... and all other ordinances of Parliament, within the county of Chester ... and to take subsscriptions for the better supply and maintenance of the forces under his command ... also allowing unto the said Sir William Brereton the personall estates of all Papists and delinquents, in and about London ... as are not yet sequestred, or discovered for the service aforesaid.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Brereton, William, Sir, 1604-1661.</author>
+               </titleStmt>
+               <extent>[1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright in the Old-Baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>March 29. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: National Library of Scotland</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Attachment and garnishment --  Great Britain --  17th century --  Sources.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179846:1"/>
+            <pb facs="tcp:179846:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE OE THE Lords and Commons Aſſembled in PARLIAMENT: For the inabling of S<hi rend="sup">r.</hi> 
+               <hi>William Brereton</hi> Baronet, one of the Members of the Houſe of Com<g ref="char:EOLhyphen"/>mons, ſpeedily to put in Execution the Ordinances for the Sequeſtration of the Eſtates of Papiſts and Delinquents, the Fifth, and Twentieth Part, Weekly Aſſeſſement; and all other Ordinances of Parliament, within the County of <hi>Cheſter,</hi> and County and City of <hi>Cheſter:</hi> And to take Subſcriptions for the better ſupply and main<g ref="char:EOLhyphen"/>tenance of the Forces under his Command, for ſecurity of the ſaid Places, and preventing the Acceſſe of the <hi>Iriſh</hi> Forces into thoſe Parts.</p>
+            <p>Alſo allowing unto the ſaid Sir <hi>William Brereton</hi> the per<g ref="char:EOLhyphen"/>ſonall Eſtates of all Papiſts and Delinquents, in and about <hi>London,</hi> and within 20. miles thereof, as are not yet ſequeſtred, or diſcovered for the Service aforeſaid.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Die Martis 26. Martii. 1644.</hi>
+                  </p>
+                  <p>ORdered by the Lords and Commons in Parliament, that this Ordinance be forthwith printed and publiſhed.</p>
+                  <p>Joh. Browne, Cler. Parliament.</p>
+               </body>
+            </floatingText>
+            <p>Printed for JOHN WRIGHT in the <hi>Old-Baily,</hi> March 29. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:179846:2"/>
+            <pb n="1" facs="tcp:179846:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS in PARLLIAMENT: To inable Sir <hi>William Brereton</hi> Baronet, one of the Members of the Houſe of Commons, to execute the ſeverall Ordinances of Parliament, for Advance of Money within the County of <hi>Cheſter,</hi> and County and City of <hi>Cheſter,</hi> and to take Subſcriptions for the better Sup<g ref="char:EOLhyphen"/>ply and Maintenance of the Forces under his Command, for the ſecurity of the ſaid Places, and for prevention of the Acceſſe of the Iriſh Forces into thoſe Parts.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lords and Commons Aſſembled in Parliament taking into their ſerious Conſideration the preſent condition of the County of <hi>Cheſter,</hi> and of the County and City of <hi>Cheſter,</hi> and the Parts adja<g ref="char:EOLhyphen"/>cent; and the dammage which hath already hap<g ref="char:EOLhyphen"/>pened, and may ſtill accrue to this Kingdom, by the frequent Acceſſe of the Iriſh Forces into the ſaid Place, (by meanes of the Haven of <hi>Cheſter</hi> being yet within the enemies power) joyning themſelves with ſuch Delinquents and Papiſts as are now in Armes in thoſe Parts againſt the Parliament; have thought fit that courſe be timely taken for prevention of further miſchiefs, by landing of more Iriſh Forces in thoſe Parts. And therefore that they might ſpeedily reduce the ſaid County and City of <hi>Cheſter,</hi> and Places aforeſaid, to their due obedience to the King and Parliament, have thought it neceſſary, that competent Supplies and Proviſions be had
+<pb n="2" facs="tcp:179846:3"/>and eſtabliſhed, as well for the Diſcharge and paiment of ſuch Arreares as are already due and owing to the Officers and Souldiers imployed in the ſervice aforeſaid, as for their future maintenance and allowance du<g ref="char:EOLhyphen"/>ring ſuch time as their ſervice ſhall be requiſite. To which end and purpoſe the ſaid Lords and Commons having had good experience, and being fully aſſured of the Fidelity and Reſolution of Sir <hi>William B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereton</hi> Baronet, one of the Members of the Houſe of Commons, and of the forwardneſſe and good affections of the Deputy-Lieute<g ref="char:EOLhyphen"/>nants, Commanders, and Inhabitants of the ſaid County of <hi>Cheſter,</hi> have ordained, and be it ordained by the ſaid Lords and Commons, That the ſaid Sir <hi>William Brereton</hi> ſhall have full Power and Authority, to take the Subſcriptions of all ſuch perſons, as will voluntarily lend or contribute any ſumme or ſummes of Money towards the Supplies and Proviſions aforeſaid, and for other neceſſaries for the advancement of the ſaid Service: Which ſums of Mony to be ſubſcribed as aforeſaid, the ſaid Sir <hi>William Brereton,</hi> and his Aſſignes, ſhall and may receive and imploy for the Service aforeſaid, and give Notes or Acquittances for the ſeverall ſums ſo received; which ſaid Notes or Acquittances ſhall be a ſufficient Specialty and Evidence for the ſeverall perſons that ſhall lend or contribute any Money as aforeſaid, to demand repaiment there<g ref="char:EOLhyphen"/>of, with ſuch increaſe as ſhall be agreed upon, ſo as the ſame ſhall not exceed eight pounds <hi>per centum.</hi> And for the better inabling the ſaid Sir <hi>William Brereton</hi> to make repaiment of ſuch Moneyes as ſhall bee lent for the ſaid purpoſes, and to performe ſuch Conditions and Agree<g ref="char:EOLhyphen"/>ments as the ſeverall Subſcribers and Lenders ſhall agree unto as afore<g ref="char:EOLhyphen"/>ſaid; and for the maintenance and ſupplies of the ſaid Forces, and fur<g ref="char:EOLhyphen"/>ther advancement of the aforeſaid Service. Be it further ordained by the ſaid Lords and Commons, That the ſaid Sir <hi>William Brereton,</hi> to<g ref="char:EOLhyphen"/>gether with the Deputy-Lieutenants, and Committees of the laid County of <hi>Cheſter,</hi> and the County of the Citie of <hi>Cheſter,</hi> or any two, or more of them, ſhall have full power and authority to put in Execution, within the ſaid County of <hi>Cheſter,</hi> and the County of the Citie of <hi>Cheſter,</hi> (when the ſame ſhall bee reduced) the ſeverall Ordi<g ref="char:EOLhyphen"/>nances of this preſent Parliament hereafter mentioned: That is to ſay, The Ordinances for ſequeſtration of Malignants, Delinquents, and Pa<g ref="char:EOLhyphen"/>piſts Eſtates. The Ordinance for the levying of Moneyes by way of Exciſe, or New Impoſt. The Ordinance for the raiſing of money, by taxing ſuch as have not at all contributed, or not according to their
+<pb n="3" facs="tcp:179846:3"/>Eſtates. The Ordinance for the Weekly Aſſeſſements, and all other Ordinances made this preſent Parliament, for advance of Money through the Whole Kingdome and Dominion of <hi>Wales,</hi> for the Ser<g ref="char:EOLhyphen"/>vice of the King and Parliament, ſo farre forth as they, or any of them, have not beene already fully executed within the Pla<g ref="char:EOLhyphen"/>ces aforeſaid: And to take care for the full and due Execution of the ſaid Ordinances according to the Tenour and true meaning of the ſame, reſpectively. And for the more ſpeedie raiſing of Moneys for the repayment of ſuch Summes as ſhall be brought in by Subſcriptions, as aforeſaid, and towards the ſatisfaction of ſuch Officers and Souldiers as are or ſhall be in Arreare of their juſt pay and allowance, and for whom there ſhall not be preſent Pay and Proviſion allowed: Be it Ordained by the ſaid Lords and Commons, that the ſaid Sir <hi>William Brereton,</hi> together with ſuch Deputy Lievtenants and Committees as aforeſaid, ſhall have hereby full power and authority to ſet and let the Lands, Tenements and Hereditaments, of all Papiſts and Delinquents which are or ſhall be ſeized and ſequeſtred according to the Ordinance of Parliament for ſequeſtration, within the ſaid County of <hi>Cheſter,</hi> and Countie and Citie of <hi>Cheſter,</hi> or either of them from year to year, or by Leaſe or Leaſes for the intents and purpoſes aforeſaid, ſo long as the ſaid Sequeſtration ſhall continue. And in caſe the Lenders or Sub<g ref="char:EOLhyphen"/>ſcribers ſhall not receive full ſatisfaction of their principall money to be lent or ſubſcribed as aforeſaid, with the intereſt thereof, out of the Eſtates of Papiſts and Delinquents, as aforeſaid, or by ſuch other means as is hereby provided as aforeſaid, That theu the ſaid Lenders, and Subſcribers, and every of them, ſhall have the publique faith of the Kingdome for the payment of ſuch Summe and Summes of Mo<g ref="char:EOLhyphen"/>ney as ſhall bee due unto them. And whereas the ſaid County of the Citie of <hi>Cheſter,</hi> is wholly ſubjected to the power and tyranny of the Forces raiſed againſt the Parliament, by reaſon whereof no Commiſ<g ref="char:EOLhyphen"/>ſioners or other Officers could as yet put in execution any of the ſaid Ordinances of Parliament: And whereas ſome perſons formerly ap<g ref="char:EOLhyphen"/>pointed by authority of the Parliament to be Commiſſioners and Of<g ref="char:EOLhyphen"/>ficers within the ſaid County of <hi>Cheſter,</hi> and County of the Citie of <hi>Cheſter,</hi> to execute the Ordinances aforeſaid, for the ſervice of the Par<g ref="char:EOLhyphen"/>liament, have ſince neglected and deſerted the ſame, and manifeſted their diſaffections thereunto. Be it therefore ordained by the ſaid Lords and Commons, that for the ſupply thereof the ſaid Sir <hi>William Brere<g ref="char:EOLhyphen"/>ton,</hi>
+               <pb n="4" facs="tcp:179846:4"/>together with ſuch Deputy Lievtenants and Committees as afore<g ref="char:EOLhyphen"/>ſaid, ſhall have full power and Authority to name and appoint ſuch Commiſſioners, Treaſurers, Collectors, and other officers within the ſaid County of <hi>Cheſter,</hi> and County and City of <hi>Cheſter,</hi> when the ſame ſhall be reduced, as ſhall be neceſſary (through the defect afore<g ref="char:EOLhyphen"/>ſaid) for the better putting in execution of all and every the Ordinan<g ref="char:EOLhyphen"/>ces of Parliament before mentioned, and of all other Ordinances of Parliament, in caſe either no Commſſioners or other Officers be na<g ref="char:EOLhyphen"/>med by the Authority of Parliament, to put the ſame in execution within the ſaid County of <hi>Cheſter,</hi> and County and City of <hi>Cheſter,</hi> or either of them, or in caſe the Commiſſioners or other Officers al<g ref="char:EOLhyphen"/>ready named, have neglected or deſerted the ſaid Service, or otherwiſe diſcovered their diſaffections to the proceedings of Parliament, which ſaid Commiſſioners and other perſons ſo to be named and ap<g ref="char:EOLhyphen"/>pointed by the ſaid Sir <hi>Will. Brereton,</hi> together with the Deputy-Liev<g ref="char:EOLhyphen"/>tenants and Committees as aforeſaid, ſhall by vertue of this preſent Ordinance have as ful power and authority to put the ſaid reſpective Ordinances in execution, as if they were named by both Houſes of Parl. and their names inſerted into the ſaid reſpective Ordinance.</p>
+            <p>And be it alſo ordained by the ſaid Lords and Commons, that the ſeverall Summes of Mony which ſhall be lent for the advancement of the ſaid Service, and ſuch increaſe as ſhall be due for every reſpective Summe ſo lent according to the true intent and meaning of this Ordi<g ref="char:EOLhyphen"/>nance, ſhall be ſatisfied and paid out of the Moneys that ſhall be raiſed within the places aforeſaid, by vertue of the afore-mentioned Ordi<g ref="char:EOLhyphen"/>nances, or of this preſent Ordinance. And the ſaid Sir <hi>William Brereton,</hi> with ſuch Deputy Lievtenants and Committees as aforeſaid, are here<g ref="char:EOLhyphen"/>by enabled and authorized to call to Accompt upon Oath all ſuch perſons of the ſaid County of <hi>Cheſter</hi> as have received any Moneys by Authority from the Parliament: As alſo to take Accompts upon Oath from time to time of the ſaid Commiſſioners, Treaſurers, and other perſons who ſhall receive any Moneys within the ſaid places by ſuch Authority as aforeſaid, and the ſame to convert and imploy for the ſervices aforeſaid, and to give ſuch fitting and reaſonable allow<g ref="char:EOLhyphen"/>ances unto ſuch perſons as ſhall be imployed in the execution of the Ordinances aforeſaid, and of this preſent Ordinance, or any of them, for their pains and charges therein, as the ſaid Sir <hi>William Brereton</hi> ſhal think fit, provided that ſuch allowance ſhal not exceed the reſpe<g ref="char:EOLhyphen"/>ctive
+<pb n="5" facs="tcp:179846:4"/>Rates allowed in other Counties of the Kingdome for putting the ſaid Ordinances in execution: And if any Treaſurers, Collectors or others ſhall refuſe to accompt or pay in the Moneyes where<g ref="char:EOLhyphen"/>with they are charged, then the ſaid Sir <hi>William Brereton,</hi> toge<g ref="char:EOLhyphen"/>ther with ſuch Deputy Lievtenants and Committees as aforeſaid, ſhall returne their Names to one, or both Houſes of Parliament. And the ſaid Sir <hi>William Brereton,</hi> together with ſuch number of De<g ref="char:EOLhyphen"/>puty-Lievtenants, or Committees, as aforeſaid, is hereby Authorized to Adminiſter the ſeverall Oaths ſpecified in the aforeſaid Ordinances unto ſuch Commiſſioners and Perſons (which have not already taken the ſame) as by the true meaning of the ſaid Ordinances, or of this preſent Ordinance, or any of them, ought to take the ſame. And be it further ordained by the ſaid Lords and Commons, That the Perſonal Eſtates of ſuch Delinquents and Papiſts within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and within twenty miles of the ſame, not yet ſeque<g ref="char:EOLhyphen"/>ſtred nor diſcovered; and which ſhall bee diſcovered by the ſaid Sir <hi>William Brereton,</hi> or ſuch Perſon or Perſons as he ſhall Authorize un<g ref="char:EOLhyphen"/>der his Hand and Seale for that purpoſe, within two Months next af<g ref="char:EOLhyphen"/>ter the publiſhing in Print of this Ordinance, ſhall be allowed unto the ſaid Sir <hi>William Brereton,</hi> for the further Advancement of the ſaid Ser<g ref="char:EOLhyphen"/>vice, provided that the ſaid concealed Eſtates exceed not the Summe of five thouſand pounds: And that the ſaid Sir <hi>William Brereton,</hi> or any Perſon Authorized by him, as aforeſaid, nor any of them, ſhall poſſeſſe themſelves of the ſaid Papiſts or Delinquents Eſtates, before he or they acquaint the Committee of Lords and Commons for Seque<g ref="char:EOLhyphen"/>ſtrations therewith, to the end they may judge of the Delinquencie of the Perſons, before his, or their Eſtates be ſequeſtred and taken away.</p>
+            <p>And be it further Ordained by the Lords and Commons, That the ſaid Sir <hi>William Brereton</hi> ſhall have Power and Authority, and is here<g ref="char:EOLhyphen"/>by required to Adminiſter the Covenant (appointed to be taken by the three Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland)</hi> to all Perſons within the ſaid County of <hi>Cheſter,</hi> and the County of the City of <hi>Cheſter,</hi> who ought to take the ſame (by the late Ordinance and In<g ref="char:EOLhyphen"/>ſtructions for that purpoſe) and have not already taken it.</p>
+            <p>And be it further Ordained by the ſaid Lords and Commons, that the ſaid Sir <hi>William Brereton,</hi> together with the Deputy-Lievtenants and Committees, as aforeſaid, ſhall have Power to call before them all Miniſters and Schoolemaſters within the County of <hi>Cheſter,</hi> and the
+<pb n="6" facs="tcp:179846:5"/>County of the City of <hi>Cheſter,</hi> that are ſcandalous in there lives, or ill-affected to the Parliament, or Fomenters of this unnaturall Warre, or ſhall wilfully refuſe obedience to the Ordinances of Parliament, or ſhal have deſerted their ordinarie place of reſidences not being imploi<g ref="char:EOLhyphen"/>ed in the Service of the King and Parliament; and they ſhall have power to ſend for any Witneſſes, and examine any Complaint or Te<g ref="char:EOLhyphen"/>ſtimony againſt them, upon Oaths of ſuch Perſons as ſhall and may be produced to give Evidence againſt them: and upon ſuch Proofs of the aforeſaid Crimes, the ſaid Sir <hi>William Brereton,</hi> together with the Deputy-Lieutenants and Committees aforeſaid, have hereby power to remove and eject all ſuch ſcandalous Miniſters &amp; Schoolemaſters, and in their places to nominate and apoint ſuch learned, able, godly, and fit Perſons, as they (with the advice and conſent of three, or more, godly and learned Divines of the ſaid County of <hi>Cheſter,</hi> which they ſhall call unto them for that purpoſe) ſhall thinke fit; and ſhall cauſe all ſuch Miniſters and Schoolemaſters, ſo nominated, appointed, and placed, to be put into poſſeſſion of the ſaid Churches and Schools, who ſhall and may reſpectively take, receive, and perceive to their own uſes, the Profits and Revenues belonging to the ſaid ſeverall Churches and Places, in as large &amp; ample manner, as the ſeverall Mi<g ref="char:EOLhyphen"/>niſters &amp; Perſons in the ſaid ſeverall places have formerly uſed to do.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
